@@ -11,14 +11,14 @@
                         <!-- Title -->
                         <h2 class="s-46 w-700">Achieve more with better workflows</h2>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci incidunt culpa beatae fugit, optio nemo iste dignissimos vel quae natus.</p>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis sodales magna undo aoreet primis</p>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt quas numquam perspiciatis voluptate a in!</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus purus congue and ipsum purus sapien a blandit</p>
+                                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure cumque, consectetur accusantium quidem fuga odit?</p>
                             </li>
                         </ul>
                     </div>

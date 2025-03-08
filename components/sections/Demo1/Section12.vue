@@ -19,10 +19,10 @@
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis sodales magna undo aoreet primis</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo debitis hic architecto ullam dolorem! Non.</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus purus congue and ipsum purus sapien a blandit</p>
+                                <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate atque illum vitae velit a exercitationem, ipsa quia sequi praesentium. Nulla temporibus nobis dignissimos facilis architecto eos amet veritatis, obcaecati animi cupiditate dolor quis, quasi sed!</p>
                             </li>
                         </ul>
                     </div>

@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">Our Happy Customers</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>Quaerat sodales sapien euismod blandit aliquet ipsum primis undo and cubilia laoreet augue and luctus magna dolor luctus egestas sapien vitae</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At cumque dignissimos, debitis omnis quas ad eius consequatur quos dolorem explicabo.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -50,7 +50,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>At sagittis congue augue and magna ipsum vitae a purus ipsum primis diam a cubilia laoreet augue egestas luctus a donec vitae ultrice ligula magna suscipit lectus gestas augue into cubilia</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, eveniet. Non temporibus repudiandae aspernatur earum praesentium repellat cupiditate molestias accusamus.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -77,7 +77,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>An augue cubilia laoreet magna suscipit egestas and ipsum a lectus purus ipsum primis and augue ultrice ligula and egestas a suscipit lectus gestas undo auctor tempus feugiat impedit quaerat</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores a ad id blanditiis repudiandae labore cumque fugit ea repellendus nobis?</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -104,7 +104,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>Augue at vitae purus tempus egestas volutpat augue undo cubilia laoreet magna suscipit luctus dolor blandit at purus tempus feugiat impedit</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam dolorum iusto aperiam sint ducimus odit, nam ad et earum!</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->

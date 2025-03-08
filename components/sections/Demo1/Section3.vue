@@ -8,7 +8,7 @@
                                     <!-- Title -->
                                     <h2 class="s-50 w-700">Everything in One Place</h2>
                                     <!-- Text -->
-                                    <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                                    <p class="s-21 color--grey">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem.</p>
                                 </div>
                             </div>
                         </div>
@@ -34,8 +34,7 @@
                                         <!-- Text -->
                                         <div class="fbox-txt">
                                             <h6 class="s-22 w-700">Market Research</h6>
-                                            <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-                                                tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+                                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia, quis? Excepturi dolores ipsam nobis animi!
                                             </p>
                                         </div>
                                      </div>
@@ -59,8 +58,7 @@
                                         <!-- Text -->
                                         <div class="fbox-txt">
                                             <h6 class="s-22 w-700">User Experience</h6>
-                                            <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-                                                tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima rerum, placeat maxime accusamus blanditiis vero?
                                             </p>
                                         </div>
                                      </div>
@@ -84,8 +82,7 @@
                                         <!-- Text -->
                                         <div class="fbox-txt">
                                             <h6 class="s-22 w-700">Digital Marketing</h6>
-                                            <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-                                                tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+                                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium in nemo commodi laboriosam unde quas!
                                             </p>
                                         </div>
                                      </div>
@@ -109,8 +106,7 @@
                                         <!-- Text -->
                                         <div class="fbox-txt">
                                             <h6 class="s-22 w-700">Web Development</h6>
-                                            <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-                                                tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta voluptatem dolore corporis debitis totam voluptas.
                                             </p>
                                         </div>
                                      </div>
@@ -134,8 +130,7 @@
                                         <!-- Text -->
                                         <div class="fbox-txt">
                                             <h6 class="s-22 w-700">Brand Design Identity</h6>
-                                            <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-                                                tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus veritatis ab atque, impedit veniam qui!
                                             </p>
                                         </div>
                                      </div>
@@ -159,8 +154,7 @@
                                         <!-- Text -->
                                         <div class="fbox-txt">
                                             <h6 class="s-22 w-700">SEO & SMM Services</h6>
-                                            <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-                                                tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+                                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum tenetur expedita dolor mollitia, quod nulla.
                                             </p>
                                         </div>
                                      </div>

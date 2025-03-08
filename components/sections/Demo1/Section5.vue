@@ -17,7 +17,7 @@
                             <!-- Title -->
                             <h5 class="s-24 w-700">Solution that grows with you</h5>
                             <!-- Text -->
-                            <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat eius sequi nemo suscipit ab repudiandae, voluptatum architecto reiciendis cupiditate iure?</p>
                         </div>
                         <!-- END TEXT BOX -->
                         <!-- TEXT BOX -->
@@ -25,14 +25,14 @@
                             <!-- Title -->
                             <h5 class="s-24 w-700">Connect your data sources</h5>
                             <!-- Text -->
-                            <p>Tempor sapien sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus an ipsum vitae suscipit purus</p>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus excepturi porro minima molestias assumenda consequatur? Neque odio obcaecati officia explicabo nesciunt nostrum. Ab, eligendi adipisci.</p>
                             <!-- List -->
                             <ul class="simple-list">
                                 <li class="list-item">
-                                    <p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus</p>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus fuga velit aliquid ad magni nisi.</p>
                                 </li>
                                 <li class="list-item">
-                                    <p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue magna placerat</p>
+                                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, ipsam temporibus quisquam optio consequuntur labore earum aliquid error sapiente repudiandae!</p>
                                 </li>
                             </ul>
                         </div>

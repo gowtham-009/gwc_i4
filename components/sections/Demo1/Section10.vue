@@ -24,7 +24,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h5 class="s-19 w-700">Content Marketing</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam neque sint quis. Incidunt corrupti asperiores ipsum nam tempore quos nulla?</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #2 -->
@@ -44,7 +44,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h5 class="s-19 w-700">Video Marketing</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis assumenda architecto possimus sapiente culpa et placeat praesentium autem asperiores incidunt.</p>
                                     </div>
                                 </div>
                             </div>
@@ -66,7 +66,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h5 class="s-19 w-700">Pay Per Click (PPC)</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio saepe iure obcaecati mollitia nostrum beatae corporis ipsum ad? Deserunt, ab?</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #4 -->
@@ -86,7 +86,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h5 class="s-19 w-700">Business Analytics</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio ducimus assumenda eveniet ad similique beatae cumque officia aut, eos iusto?</p>
                                     </div>
                                 </div>
                             </div>
@@ -103,14 +103,14 @@
                         <!-- Title -->
                         <h2 class="s-46 w-700">Control data access with ease</h2>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum and congue undo laoreet turpis neque auctor turpis vitae dolor luctus placerat magna ligula and cursus vitae</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi id quo alias nihil quas cum error ut, repudiandae quis cupiditate?</p>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Tempor sapien quaerat undo ipsum laoreet diam purus sapien a dolor ociis ultrice ipsum aliquam</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos tenetur facere quibusdam suscipit? Deserunt itaque repellendus dicta est nihil neque?</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis diam volute egestas sapien ultrice auctor</p>
+                                <p class="mb-0">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea, tempore quae quasi tenetur obcaecati eaque nihil ipsum numquam velit. Sunt, fugiat laboriosam? Temporibus architecto explicabo mollitia vero, voluptatibus repudiandae voluptatum?</p>
                             </li>
                         </ul>
                     </div>

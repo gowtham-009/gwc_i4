@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">Track the progress towards objectives with key results</h2>
                         <!-- Text -->
-                        <p class="s-21">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, rerum!</p>
                     </div>
                 </div>
             </div>

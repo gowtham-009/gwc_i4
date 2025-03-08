@@ -12,14 +12,14 @@
                                 <!-- Title -->
                                 <h2 class="s-46 w-700">Smart solutions, real-time results</h2>
                                 <!-- Text -->
-                                <p>Sodales tempor sapien quaerat congue eget ipsum laoreet turpis neque auctor vitae eros dolor luctus placerat magna ligula cursus and purus pretium</p>
+                                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa nihil exercitationem cum corporis aperiam neque, eaque inventore dolorem aliquam accusamus.</p>
                                 <!-- List -->
                                 <ul class="simple-list">
                                     <li class="list-item">
-                                        <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis sodales magna</p>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi, consequuntur!</p>
                                     </li>
                                     <li class="list-item">
-                                        <p class="mb-0">Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam congue</p>
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur hic aut perferendis? Esse, officiis error.</p>
                                     </li>
                                 </ul>
                             </div>

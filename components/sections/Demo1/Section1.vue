@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-60 w-700">Automate your way to success with Martex</h2>
                         <!-- Text -->
-                        <p class="s-21">Mauris donec ociis diam magnis sapien sagittis sapien tempor volute gravida and aliquet tortor undo aliquet in quaerat tortor</p>
+                        <p class="s-21">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consectetur facere at totam, dolores iste?</p>
                         <!-- HERO QUICK FORM -->
                         <form name="quickform" class="quick-form form-shadow" @submit.prevent="handlEvent">
                             <!-- Form Inputs -->

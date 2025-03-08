@@ -9,14 +9,15 @@
                         <!-- Title -->
                         <h5 class="s-24 w-700">Automate data collection</h5>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ab eveniet sit repellendus nam earum aliquid ullam ad aliquam doloribus.
+                        </p>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus</p>
+                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus repudiandae laborum debitis expedita, commodi ut iure non quam cum animi?</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue magna placerat</p>
+                                <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis quod tempora quisquam reiciendis amet explicabo incidunt dolorum veniam facilis minus?</p>
                             </li>
                         </ul>
                     </div>

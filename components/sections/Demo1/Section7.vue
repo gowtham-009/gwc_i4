@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">The Complete Solutions</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum exercitationem accusamus eaque dolorem doloremque rem ipsa, voluptas, quidem nihil asperiores voluptates tempora optio est nulla voluptatum beatae velit quis officiis.</p>
                     </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Intuitive Dashboard</h6>
-                                <p>Luctus egestas augue undo ultrice aliquam in lacus congue dapibus</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente at quo beatae provident. Eveniet provident, reprehenderit sit ipsum tenetur sequi.</p>
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Effortless Integration</h6>
-                                <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet harum doloribus officia laborum, qui inventore deserunt rerum voluptatibus iure quaerat.</p>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Engagement Analysis</h6>
-                                <p>Egestas luctus augue undo ultrice aliquam in lacus feugiat cursus</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur asperiores blanditiis ab numquam iste tempore repudiandae molestiae sunt, deserunt libero?</p>
                             </div>
                         </div>
                     </div>
