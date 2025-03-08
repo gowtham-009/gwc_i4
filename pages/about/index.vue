@@ -18,7 +18,7 @@
 </template>
 <script setup>
     useHead({
-           title: 'About us Goodwill Insurance company',
+           title: 'About us',
           meta: [
           { name: 'description', content: 'This site is  about' },
           { name: 'keywords', content: 'Nuxt 3, Vuetify, Web Development' },
