@@ -6,7 +6,7 @@
 </template>
 <script setup>
      useHead({
-             title: 'Contact',
+             title: 'Contact us Goodwill Insurance company',
             meta: [
             { name: 'description', content: 'This site is Contact' },
             { name: 'keywords', content: 'Nuxt 3, Vuetify, Web Development' },

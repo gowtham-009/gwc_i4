@@ -10,7 +10,7 @@
     })
 
     useHead({
-           title: 'Signup',
+           title: 'Signup-2 Goodwill Insurance company',
           meta: [
           { name: 'description', content: 'This site is signup us' },
           { name: 'keywords', content: 'Nuxt 3, Vuetify, Web Development' },
