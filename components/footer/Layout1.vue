@@ -113,20 +113,7 @@
                     </div>
                     <!-- FOOTER SOCIALS -->
                     <div class="col">
-                        <ul class="bottom-footer-socials ico-20 text-end">
-                            <li>
-                                <a href="#"><span class="flaticon-facebook"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-twitter"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-instagram"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-youtube"></span></a>
-                            </li>
-                        </ul>
+                       
                     </div>
                 </div>
                 <!-- End row -->
