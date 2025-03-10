@@ -25,8 +25,10 @@ export default defineNuxtConfig({
     ],
     modules: [
         'nuxt-simple-robots',
+        'nuxt-gtag',
         [
             "@nuxtjs/google-fonts",
+
             {
                 families: {
                     Rubik: {
@@ -55,5 +57,12 @@ export default defineNuxtConfig({
           }
         ],
         sitemap: 'https://gwc-i4-nj25.vercel.app/sitemap.xml'
+      },
+      runtimeConfig: {
+        public: {
+          gtag: {
+            id: 'GTM-KBRZQ85B', // Replace with your GA Measurement ID
+          }
+        }
       }
 });
