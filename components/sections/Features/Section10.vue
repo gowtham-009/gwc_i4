@@ -16,7 +16,7 @@
                             <!-- Text -->
                             <div class="cbox-2-txt">
                                 <h5 class="s-22 w-700">Simple, Secure & Intuitive</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure sunt corrupti officiis harum quam assumenda.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #1 -->
@@ -30,7 +30,7 @@
                             <!-- Text -->
                             <div class="cbox-2-txt">
                                 <h5 class="s-22 w-700">Weekly Email Reports</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati soluta, vel modi inventore cupiditate numquam.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #2 -->
@@ -43,7 +43,7 @@
                             <!-- Text -->
                             <div class="cbox-2-txt">
                                 <h5 class="s-22 w-700">No Personal Data Collected</h5>
-                                <p class="mb-0">Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum n eque ligula quaerat</p>
+                                <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam cum similique doloribus. Alias, accusantium repellendus.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #3 -->

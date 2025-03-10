@@ -10,7 +10,7 @@
                                 <!-- Title -->
                                 <h2 class="s-50 w-700">Build a customer-centric marketing strategy</h2>
                                 <!-- Text -->
-                                <p class="p-xl">Aliquam a augue suscipit luctus neque purus ipsum neque diam dolor primis libero tempus, blandit and cursus varius and magnis sodales</p>
+                                <p class="p-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, sapiente? Dolores veniam molestiae ex ratione iure omnis rerum eligendi harum.</p>
                             </div>
                         </div>
                     </div>

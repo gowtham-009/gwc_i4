@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-52 w-700">Questions & Answers</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sed a officiis voluptate ad atque porro vel asperiores deserunt voluptas nobis dolorum laudantium distinctio deleniti expedita provident, amet vero. Alias?</p>
                     </div>
                 </div>
             </div>
@@ -23,14 +23,14 @@
                                 <!-- Question -->
                                 <h5 class="s-22 w-700"><span>1.</span> Getting started with Martex</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">Etiam amet mauris suscipit in odio integer congue metus and vitae arcu mollis blandit ultrice ligula egestas magna suscipit lectus magna suscipit luctus blandit and laoreet</p>
+                                <p class="color--grey">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel qui dolorem vitae dolor velit similique atque sint voluptatibus ut facere?</p>
                             </div>
                             <!-- QUESTION #2 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
                                 <h5 class="s-22 w-700"><span>2.</span> How do I choose a plan?</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">An enim nullam tempor sapien gravida donec ipsum and enim porta justo integer at velna vitae auctor integer congue undo magna laoreet augue pretium purus pretium ligula</p>
+                                <p class="color--grey">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam illo iure ipsum amet quis maxime incidunt, consectetur quidem ipsa porro!</p>
                             </div>
                             <!-- QUESTION #3 -->
                             <div class="question mb-35 wow fadeInUp">
@@ -39,10 +39,10 @@
                                 <!-- Answer -->
                                 <ul class="simple-list color--grey">
                                     <li class="list-item">
-                                        <p>Fringilla risus, luctus mauris orci auctor purus ligula euismod pretium purus pretium rutrum tempor sapien</p>
+                                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias ipsam dolores eius necessitatibus amet repudiandae!</p>
                                     </li>
                                     <li class="list-item">
-                                        <p>Nemo ipsam egestas volute undo turpis purus lipsum primis aliquam sapien quaerat sodales pretium a purus</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, atque.</p>
                                     </li>
                                 </ul>
                             </div>
@@ -57,23 +57,23 @@
                                 <!-- Question -->
                                 <h5 class="s-22 w-700"><span>4.</span> Discounts for annual plans</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">Quaerat sodales sapien euismod blandit purus a purus ipsum primis in cubilia laoreet augue luctus dolor luctus</p>
+                                <p class="color--grey">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere optio provident vero facilis amet praesentium nam ea ipsum voluptates inventore!</p>
                                 <!-- Answer -->
-                                <p class="color--grey">An enim nullam tempor sapien gravida donec congue metus. Vitae arcu mollis blandit integer nemo volute velna</p>
+                                <p class="color--grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure saepe quae cupiditate rerum dignissimos excepturi facilis incidunt ipsa, dicta quasi.</p>
                             </div>
                             <!-- QUESTION #5 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
                                 <h5 class="s-22 w-700"><span>5.</span> How to request a refund?</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">Cubilia laoreet augue egestas and luctus donec curabite diam vitae dapibus libero and quisque gravida donec neque blandit justo aliquam molestie nunc sapien justo</p>
+                                <p class="color--grey">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta consequatur corporis, nulla ullam est cumque expedita esse reiciendis mollitia recusandae quo distinctio eligendi excepturi cum, similique voluptas voluptatem reprehenderit consequuntur!</p>
                             </div>
                             <!-- QUESTION #6 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
                                 <h5 class="s-22 w-700"><span>6.</span> Can I cancel at anytime?</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">An enim nullam tempor sapien gravida donec ipsum and enim porta justo integer at velna vitae auctor integer congue undo magna laoreet augue pretium purus pretium ligula</p>
+                                <p class="color--grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem natus ullam eum eaque velit blanditiis sed saepe incidunt asperiores eligendi.</p>
                             </div>
                         </div>
                     </div>

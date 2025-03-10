@@ -11,7 +11,7 @@
                                 <!-- Title -->
                                 <h2 class="s-46 w-700">Getting started with Martex today!</h2>
                                 <!-- Text -->
-                                <p class="p-lg">Congue laoreet turpis neque auctor turpis vitae dolor a luctus placerat and magna ligula cursus</p>
+                                <p class="p-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quos nemo eligendi sequi tempora, earum delectus eaque voluptatum veritatis fugit?</p>
                                 <!-- Button -->
                                 <NuxtLink to="/signup-1" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's free</NuxtLink>
                             </div>

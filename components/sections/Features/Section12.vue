@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-52 w-700">All Necessary Tools</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
                     </div>
                 </div>
             </div>

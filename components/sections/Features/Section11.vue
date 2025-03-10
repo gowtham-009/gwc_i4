@@ -17,7 +17,7 @@
                         <!-- Title -->
                         <h2 class="s-46 w-700">Right strategies & implementations</h2>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ut commodi fugiat animi dolorum quod facilis, obcaecati vel nostrum accusantium.</p>
                         <!-- Small Title -->
                         <h5 class="s-24 w-700">Get more done in less time</h5>
                         <!-- CONTENT BOX #1 -->
@@ -26,7 +26,7 @@
                                 <div class="cbox-1-ico"><span class="flaticon-check"></span></div>
                             </div>
                             <div class="cbox-1-txt">
-                                <p>Magna dolor luctus at egestas sapien</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <!-- CONTENT BOX #2 -->
@@ -35,7 +35,7 @@
                                 <div class="cbox-1-ico"><span class="flaticon-check"></span></div>
                             </div>
                             <div class="cbox-1-txt">
-                                <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue varius magnis</p>
+                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto in enim magni aliquam. Omnis fugiat inventore dolores sint maxime sapiente?</p>
                             </div>
                         </div>
                         <!-- CONTENT BOX #3 -->
@@ -44,7 +44,7 @@
                                 <div class="cbox-1-ico"><span class="flaticon-check"></span></div>
                             </div>
                             <div class="cbox-1-txt">
-                                <p class="mb-0">Volute turpis dolores and sagittis congue</p>
+                                <p class="mb-0">Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                     </div>

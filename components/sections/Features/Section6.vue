@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">Everything in One Place</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid impedit deleniti animi architecto ullam at.</p>
                     </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Intuitive Dashboard</h6>
-                                <p>Luctus egestas augue undo ultrice aliquam in lacus congue dapibus</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, nihil!</p>
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Effortless Integration</h6>
-                                <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa doloremque vel quisquam labore possimus at.</p>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Real-time Analytics</h6>
-                                <p>Egestas luctus augue undo ultrice aliquam in lacus feugiat cursus</p>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos, voluptas.</p>
                             </div>
                         </div>
                     </div>

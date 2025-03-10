@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">Track the progress towards objectives with key results</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     </div>
                 </div>
             </div>
@@ -21,7 +21,7 @@
                             <!-- Text -->
                             <div class="fbox-txt order-last order-md-2">
                                 <h5 class="s-26 w-700">Marketing Integrations</h5>
-                                <p>Aliquam a augue suscipit luctus diam neque purus ipsum neque and dolor primis libero</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur.</p>
                             </div>
                             <!-- Image -->
                             <div class="fbox-5-img order-first order-md-2">
@@ -40,7 +40,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h5 class="s-26 w-700">Productivity Focused</h5>
-                                <p>Aliquam a augue suscipit luctus diam neque purus ipsum neque and dolor primis libero</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, quisquam officiis. Labore doloremque asperiores quod!</p>
                             </div>
                         </div>
                     </div>

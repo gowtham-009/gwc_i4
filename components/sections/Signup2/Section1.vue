@@ -53,7 +53,7 @@
                                     <h2 class="s-48 w-700">Create</h2>
                                     <h2 class="s-48 w-700">an account</h2>
                                     <!-- Text -->
-                                    <p class="p-md mt-25">Integer congue sagittis and velna augue egestas magna suscipit purus aliquam</p>
+                                    <p class="p-md mt-25">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, quaerat.</p>
                                     <!-- Copyright -->
                                     <div class="register-page-copyright">
                                         <p class="p-sm">&copy; <span>All Rights Reserved</span></p>
