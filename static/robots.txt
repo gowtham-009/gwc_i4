@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /admin
 Allow: /
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap:https://gwc-i4-nj25.vercel.app/sitemap.xml
