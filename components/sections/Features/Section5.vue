@@ -10,14 +10,14 @@
                         <!-- Title -->
                         <h2 class="s-46 w-700">Smart solutions, real-time results</h2>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum and congue undo laoreet turpis neque auctor turpis vitae dolor luctus placerat magna ligula and cursus vitae</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum quidem labore quaerat cum at, atque minima assumenda eos nostrum, consequuntur sed numquam vero. Porro accusantium quis ipsa soluta asperiores optio?</p>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Tempor sapien quaerat undo ipsum laoreet diam purus sapien a dolor ociis ultrice ipsum aliquam congue a dolor cursus congue varius magnis</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea recusandae repellendus, laudantium vel officiis inventore eius doloribus sit tempore, nulla, consequatur dignissimos?</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis diam volute egestas sapien ultrice auctor</p>
+                                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ducimus pariatur eos recusandae, dicta similique!</p>
                             </li>
                         </ul>
                     </div>
@@ -45,7 +45,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h5 class="s-20 w-700">Integrated</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea officia, libero quo tempore voluptatum ipsa.</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #2 -->
@@ -65,7 +65,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h5 class="s-20 w-700">Intuitive</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, atque. Nesciunt eaque provident esse perspiciatis aperiam quasi culpa placeat nihil ipsum accusamus.</p>
                                     </div>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h5 class="s-20 w-700">Flexible</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores aut voluptatibus ab fugiat eos explicabo!</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #4 -->
@@ -107,7 +107,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h5 class="s-20 w-700">Efficient</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed nisi corrupti explicabo inventore facilis deserunt ad mollitia eos esse quam quo, doloribus maiores aut nihil amet quis enim culpa modi, in, sapiente repellendus.</p>
                                     </div>
                                 </div>
                             </div>

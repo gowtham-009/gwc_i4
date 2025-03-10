@@ -12,11 +12,11 @@
                                 <!-- Title -->
                                 <h2 class="s-46 w-700">Automate your way to success</h2>
                                 <!-- Text -->
-                                <p>Sodales tempor sapien quaerat congue eget ipsum laoreet turpis neque auctor vitae eros dolor luctus placerat magna ligula cursus and purus pretium</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quasi, aperiam magni fugiat beatae molestiae?</p>
                                 <!-- Small Title -->
                                 <h5 class="s-24 w-700 h5-title">The smarter way to work</h5>
                                 <!-- Text -->
-                                <p class="mb-0">Sapien tempor sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae</p>
+                                <p class="mb-0">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum sunt molestiae ad architecto, est incidunt nobis laborum dolorem mollitia vel!</p>
                             </div>
                         </div>
                         <!-- END TEXT BLOCK -->

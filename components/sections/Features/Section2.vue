@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">We make your business gain more revenue at a glance</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid obcaecati, veniam est harum optio quod?</p>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Market Research</h6>
-                                <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quos quidem neque et nemo optio illo ab repudiandae quam perferendis!</p>
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">User Experience</h6>
-                                <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut voluptas a eveniet aut deserunt iste quis quos libero harum impedit?</p>
                             </div>
                         </div>
                     </div>
@@ -85,7 +85,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Digital Marketing</h6>
-                                <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil exercitationem beatae eius! Dicta est maxime, reprehenderit sed facere hic ad.</p>
                             </div>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Web Development</h6>
-                                <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam dolorem corrupti asperiores nisi doloremque sint totam illum! Necessitatibus, distinctio nihil.</p>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Brand Design Identity</h6>
-                                <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, aspernatur fugiat veniam repellat magni quam voluptate veritatis quod iste exercitationem!</p>
                             </div>
                         </div>
                     </div>
@@ -160,7 +160,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">SEO & SMM Services</h6>
-                                <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo asperiores eius ipsam dolores blanditiis quo magni eos dignissimos quos.</p>
                             </div>
                         </div>
                     </div>

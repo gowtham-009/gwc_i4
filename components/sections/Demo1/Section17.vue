@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">Automate your workflow with our integrations</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, provident!</p>
                     </div>
                 </div>
             </div>

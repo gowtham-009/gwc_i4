@@ -16,7 +16,8 @@
                             <!-- Text -->
                             <div class="cbox-2-txt">
                                 <h5 class="s-22 w-700">Simplify. Optimize. Automate</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt explicabo deleniti, libero harum perspiciatis deserunt provident ipsa corrupti laborum sint! Saepe voluptatem incidunt error corporis at autem dolores culpa cum.
+                                </p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #1 -->
@@ -30,7 +31,7 @@
                             <!-- Text -->
                             <div class="cbox-2-txt">
                                 <h5 class="s-22 w-700">Enhanced Security Features</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At perspiciatis neque ex. Nobis rerum minima ad quisquam dolore? Neque nulla id aliquid ex eveniet quibusdam porro, ea unde quis alias.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #2 -->
@@ -43,7 +44,7 @@
                             <!-- Text -->
                             <div class="cbox-2-txt">
                                 <h5 class="s-22 w-700">No Personal Data Collected</h5>
-                                <p class="mb-0">Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <p class="mb-0">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima amet atque eligendi, inventore temporibus sit quasi animi tempore velit, ipsa similique, a soluta? Vero placeat aut culpa necessitatibus consequatur provident!</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #3 -->
