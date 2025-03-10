@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">All Necessary Tools</h2>
+                        <h1 class="s-52 w-700">All Necessary Tools</h1>
                         <!-- Text -->
                         <p class="s-21 color--grey">Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
                     </div>

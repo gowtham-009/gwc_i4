@@ -9,7 +9,7 @@
                         <!-- Section ID -->
                         <span class="section-id">Productivity Focused</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Achieve more with better workflows</h2>
+                        <h1 class="s-46 w-700">Achieve more with better workflows</h1>
                         <!-- Text -->
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci incidunt culpa beatae fugit, optio nemo iste dignissimos vel quae natus.</p>
                         <!-- List -->

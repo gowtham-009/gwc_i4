@@ -44,21 +44,7 @@
           bodyAttrs: {
               class: "navbar-dark"
           },
-          script: [
-    {
-      src: "https://www.googletagmanager.com/gtag/js?id=GTM-KBRZQ85B",
-      async: true
-    },
-    {
-      innerHTML: `
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'GTM-KBRZQ85B');
-      `,
-      type: "text/javascript"
-    }
-  ]
+         
         
       })
   

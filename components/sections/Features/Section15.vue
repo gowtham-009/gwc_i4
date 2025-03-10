@@ -9,7 +9,7 @@
                         <div class="col-md-7">
                             <div class="banner-13-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Getting started with Martex today!</h2>
+                                <h1 class="s-46 w-700">Getting started with Martex today!</h1>
                                 <!-- Text -->
                                 <p class="p-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quos nemo eligendi sequi tempora, earum delectus eaque voluptatum veritatis fugit?</p>
                                 <!-- Button -->

@@ -9,7 +9,7 @@
                         <div class="col">
                             <div class="banner-1-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-45 w-700">Give it a try, it's free!</h2>
+                                <h1 class="s-45 w-700">Give it a try, it's free!</h1>
                                 <!-- Text -->
                                 <p class="p-xl">It only takes a few clicks to get started</p>
                                 <!-- Button -->

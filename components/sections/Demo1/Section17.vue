@@ -6,7 +6,7 @@
                 <div class="col-md-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Automate your workflow with our integrations</h2>
+                        <h1 class="s-50 w-700">Automate your workflow with our integrations</h1>
                         <!-- Text -->
                         <p class="s-21 color--grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, provident!</p>
                     </div>

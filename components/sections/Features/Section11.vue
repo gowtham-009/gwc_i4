@@ -15,7 +15,7 @@
                         <!-- Section ID -->
                         <span class="section-id">Strategies That Work</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Right strategies & implementations</h2>
+                        <h1 class="s-46 w-700">Right strategies & implementations</h1>
                         <!-- Text -->
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ut commodi fugiat animi dolorum quod facilis, obcaecati vel nostrum accusantium.</p>
                         <!-- Small Title -->

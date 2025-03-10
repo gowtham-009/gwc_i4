@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Simple, Flexible Pricing</h2>
+                        <h1 class="s-52 w-700">Simple, Flexible Pricing</h1>
                         <!-- TOGGLE BUTTON -->
                         <div class="toggle-btn ext-toggle-btn toggle-btn-md mt-30">
                             <span class="toggler-txt">Billed monthly</span>

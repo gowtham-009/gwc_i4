@@ -10,7 +10,7 @@
                                 <!-- Section ID -->
                                 <span class="section-id">One-Stop Solution</span>
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Smart solutions, real-time results</h2>
+                                <h1 class="s-46 w-700">Smart solutions, real-time results</h1>
                                 <!-- Text -->
                                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa nihil exercitationem cum corporis aperiam neque, eaque inventore dolorem aliquam accusamus.</p>
                                 <!-- List -->

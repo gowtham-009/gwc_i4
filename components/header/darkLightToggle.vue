@@ -13,6 +13,7 @@ import { ref } from 'vue';
 const isDarkMode = ref(false);
 
 const toggleDarkMode = () => {
+    
     isDarkMode.value = !isDarkMode.value;
     document.body.classList.toggle("theme--dark");
   

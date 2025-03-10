@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Compare Our Plans</h2>
+                        <h1 class="s-52 w-700">Compare Our Plans</h1>
                         <!-- Text -->
                         <p class="p-xl">Complete list of features available in our pricing plans</p>
                     </div>

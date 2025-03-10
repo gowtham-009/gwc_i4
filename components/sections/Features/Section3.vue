@@ -10,7 +10,7 @@
                                 <!-- Section ID -->
                                 <span class="section-id">Enhance Engagement</span>
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Automate your way to success</h2>
+                                <h1 class="s-46 w-700">Automate your way to success</h1>
                                 <!-- Text -->
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quasi, aperiam magni fugiat beatae molestiae?</p>
                                 <!-- Small Title -->

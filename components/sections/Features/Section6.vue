@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-80">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Everything in One Place</h2>
+                        <h1 class="s-50 w-700">Everything in One Place</h1>
                         <!-- Text -->
                         <p class="s-21 color--grey">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid impedit deleniti animi architecto ullam at.</p>
                     </div>

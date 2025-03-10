@@ -4,7 +4,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-11 col-xl-10">
                     <div class="inner-page-title">
-                        <h2 class="s-52 w-700">Questions & Answers</h2>
+                        <h1 class="s-52 w-700">Questions & Answers</h1>
                         <p class="p-lg">Some common questions we get about Martex</p>
                     </div>
                     <div class="accordion-wrapper">

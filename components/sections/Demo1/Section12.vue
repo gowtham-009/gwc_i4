@@ -15,7 +15,7 @@
                         <!-- Section ID -->
                         <span class="section-id">Easy Integration</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Plug your essential tools in few clicks</h2>
+                        <h1 class="s-46 w-700">Plug your essential tools in few clicks</h1>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
