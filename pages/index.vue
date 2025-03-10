@@ -22,6 +22,16 @@
         <SectionsDemo1Section19 />
         <!-- <SectionsDemo1Section20 />
         <SectionsDemo1Section21 /> -->
+
+        <div class="d-none" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+          <p>Address: 
+            <span itemprop="streetAddress">T Nagar Chennai</span>,
+            <span itemprop="addressLocality">Chennai</span>,
+            <span itemprop="addressRegion">Ind</span>,
+            <span itemprop="postalCode">613008</span>,
+            <span itemprop="addressCountry">India</span>.
+          </p>
+        </div>
     </div>
 </template>
 
@@ -51,6 +61,26 @@
         bodyAttrs: {
             class: "navbar-light"
         },
+        script: [
+    {
+      type: 'application/ld+json',
+      children: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "w3",
+        "telephone": "+91 351684321654",
+        "email": "gwc@example.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "T Nagar Chennai",
+          "addressLocality": "Chennai",
+          "addressRegion": "Ind",
+          "postalCode": "613008",
+          "addressCountry": "India"
+        }
+      })
+    }
+  ]
 
   
     })

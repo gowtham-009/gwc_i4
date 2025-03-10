@@ -17,7 +17,7 @@
                                        
                                         <div class="col-md-12 mt-2">
                                             <p class="p-sm input-header">Mobile Number</p>
-                                            <input class="form-control name" v-model="mobilenumber" type="text" name="name" placeholder="Enter you mobile number" />
+                                            <input class="form-control " v-model="mobilenumber" type="text"  placeholder="Enter you mobile number" />
                                         </div>
                                         <!-- Form Input -->
                                         <div class="col-md-12">
@@ -31,7 +31,7 @@
                                             <div class="form-data">
                                                 <span
                                                     >By clicking “Create Account”, you agree to our <NuxtLink to="/terms">Terms</NuxtLink> and that you have read our
-                                                    <NuxtLink to="/privacy"> Privacy Policy</NuxtLink>
+                                                    <NuxtLink > Privacy Policy</NuxtLink>
                                                 </span>
                                             </div>
                                         </div>
