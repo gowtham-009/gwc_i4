@@ -24,6 +24,7 @@ export default defineNuxtConfig({
       "~/assets/css/color-scheme/violet.scss",
     ],
     modules: [
+        'nuxt-simple-robots',
         [
             "@nuxtjs/google-fonts",
             {
@@ -44,4 +45,15 @@ export default defineNuxtConfig({
         ],
         "nuxt-swiper"
     ],
+
+    robots: {
+        rules: [
+          {
+            userAgent: '*',
+            allow: '/',
+            disallow: ['/admin']
+          }
+        ],
+        sitemap: 'https://gwc-i4-nj25.vercel.app/sitemap.xml'
+      }
 });
