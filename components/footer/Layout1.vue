@@ -5,7 +5,7 @@
             <div class="row">
                 <!-- FOOTER LOGO -->
                 <div class="col-xl-3">
-                   
+                  
                 </div>
                 <!-- FOOTER LINKS -->
                 <div class="col-sm-4 col-lg-3 col-xl-2">
@@ -112,7 +112,20 @@
                     </div>
                     <!-- FOOTER SOCIALS -->
                     <div class="col">
-                       
+                        <ul class="bottom-footer-socials ico-20 text-end">
+                            <li>
+                                <a href="https://www.facebook.com/"><span class="flaticon-facebook"></span></a>
+                            </li>
+                            <li>
+                                <a href="https://x.com/?lang=en"><span class="flaticon-twitter"></span></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/"><span class="flaticon-github"></span></a>
+                            </li>
+                            <li>
+                                <a href="https://dribbble.com/"><span class="flaticon-dribbble"></span></a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <!-- End row -->

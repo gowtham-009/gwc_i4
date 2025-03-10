@@ -5,7 +5,7 @@
             <div class="row">
                 <!-- FOOTER LOGO -->
                 <div class="col-xl-3">
-                  
+                   
                 </div>
                 <!-- FOOTER LINKS -->
                 <div class="col-sm-4 col-md-3 col-xl-2">
@@ -15,7 +15,7 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink>About Us</NuxtLink></p>
+                                <p><NuxtLink >About Us</NuxtLink></p>
                             </li>
                             <li>
                                 <p><NuxtLink >Careers</NuxtLink></p>
@@ -41,10 +41,10 @@
                                 <p><NuxtLink >Integration</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink >Customers</NuxtLink></p>
+                                <p><NuxtLink>Customers</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink>Pricing</NuxtLink></p>
+                                <p><NuxtLink >Pricing</NuxtLink></p>
                             </li>
                             <li>
                                 <p><NuxtLink >Help Center</NuxtLink></p>
@@ -61,7 +61,7 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink>Terms of Use</NuxtLink></p>
+                                <p><NuxtLink >Terms of Use</NuxtLink></p>
                             </li>
                             <li>
                                 <p><NuxtLink >Privacy Policy</NuxtLink></p>
@@ -86,7 +86,20 @@
                             <a href="mailto:yourdomain@mail.com">hello@yourdomain.com</a>
                         </p>
                         <!-- Social Links -->
-                       
+                        <ul class="footer-socials ico-25 text-center clearfix">
+                            <li>
+                                <a href="https://www.facebook.com/"><span class="flaticon-facebook"></span></a>
+                            </li>
+                            <li>
+                                <a href="https://x.com/?lang=en"><span class="flaticon-twitter"></span></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/"><span class="flaticon-github"></span></a>
+                            </li>
+                            <li>
+                                <a href="https://dribbble.com/"><span class="flaticon-dribbble"></span></a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <!-- END FOOTER LINKS -->
