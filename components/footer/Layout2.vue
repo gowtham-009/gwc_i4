@@ -88,20 +88,7 @@
                             <a href="mailto:yourdomain@mail.com">hello@yourdomain.com</a>
                         </p>
                         <!-- Social Links -->
-                        <ul class="footer-socials ico-25 text-center clearfix">
-                            <li>
-                                <a href="#"><span class="flaticon-facebook"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-twitter"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-github"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-dribbble"></span></a>
-                            </li>
-                        </ul>
+                       
                     </div>
                 </div>
                 <!-- END FOOTER LINKS -->
@@ -115,7 +102,7 @@
                     <!-- FOOTER COPYRIGHT -->
                     <div class="col">
                         <div class="footer-copyright">
-                            <p class="p-sm">&copy; 2024 Martex. <span>All Rights Reserved</span></p>
+                            <p class="p-sm"><span>All Rights Reserved</span></p>
                         </div>
                     </div>
                     <!-- FOOTER SECONDARY LINK -->
