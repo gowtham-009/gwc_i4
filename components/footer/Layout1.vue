@@ -5,8 +5,7 @@
             <div class="row">
                 <!-- FOOTER LOGO -->
                 <div class="col-xl-3">
-                    <div class="footer-info">
-                    </div>
+                   
                 </div>
                 <!-- FOOTER LINKS -->
                 <div class="col-sm-4 col-lg-3 col-xl-2">

@@ -15,16 +15,16 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/about">About Us</NuxtLink></p>
+                                <p><NuxtLink>About Us</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/careers">Careers</NuxtLink></p>
+                                <p><NuxtLink >Careers</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/blog-listing">About Us</NuxtLink></p>
+                                <p><NuxtLink >About Us</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/contacts">Contact Us</NuxtLink></p>
+                                <p><NuxtLink>Contact Us</NuxtLink></p>
                             </li>
                         </ul>
                     </div>
@@ -38,16 +38,16 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/features">Integration</NuxtLink></p>
+                                <p><NuxtLink >Integration</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/reviews">Customers</NuxtLink></p>
+                                <p><NuxtLink >Customers</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/pricing-1">Pricing</NuxtLink></p>
+                                <p><NuxtLink>Pricing</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/help-center">Help Center</NuxtLink></p>
+                                <p><NuxtLink >Help Center</NuxtLink></p>
                             </li>
                         </ul>
                     </div>
@@ -61,16 +61,16 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/terms">Terms of Use</NuxtLink></p>
+                                <p><NuxtLink>Terms of Use</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/privacy">Privacy Policy</NuxtLink></p>
+                                <p><NuxtLink >Privacy Policy</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/cookies">Cookie Policy</NuxtLink></p>
+                                <p><NuxtLink >Cookie Policy</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/cookies">Site Map</NuxtLink></p>
+                                <p><NuxtLink >Site Map</NuxtLink></p>
                             </li>
                         </ul>
                     </div>
