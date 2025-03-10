@@ -5,9 +5,7 @@
             <div class="row">
                 <!-- FOOTER LOGO -->
                 <div class="col-xl-3">
-                    <div class="footer-info">
-                        <img class="footer-logo" src="/assets/images/gwc-logo.webp" alt="footer-logo" />
-                    </div>
+                  
                 </div>
                 <!-- FOOTER LINKS -->
                 <div class="col-sm-4 col-md-3 col-xl-2">
