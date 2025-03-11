@@ -21,10 +21,10 @@
                             <table class="table text-center">
                                 <thead>
                                     <tr>
-                                        <th style="width: 34%"></th>
-                                        <th style="width: 22%">Starter</th>
-                                        <th style="width: 22%">Basic</th>
-                                        <th style="width: 22%">Premium</th>
+                                        <th class="w-34" ></th>
+                                        <th class="w-22" >Starter</th>
+                                        <th class="w-22" >Basic</th>
+                                        <th class="w-22" >Premium</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -152,3 +152,13 @@
         <!-- End container -->
     </section>
 </template>
+
+<style>
+    .w-34{
+        width:34%;
+    }
+
+    .w-22{
+        width:22%;
+    }
+</style>
