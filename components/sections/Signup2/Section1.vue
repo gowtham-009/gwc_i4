@@ -50,8 +50,8 @@
                                     <!-- Section ID -->
                                     <span class="section-id">Start for free</span>
                                     <!-- Title -->
-                                    <h2 class="s-48 w-700">Create</h2>
-                                    <h2 class="s-48 w-700">an account</h2>
+                                    <h1 class="s-48 w-700">Create</h1>
+                                    <h1 class="s-48 w-700">an account</h1>
                                     <!-- Text -->
                                     <p class="p-md mt-25">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, quaerat.</p>
                                     <!-- Copyright -->

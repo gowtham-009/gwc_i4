@@ -101,7 +101,7 @@
                         <!-- Section ID -->
                         <span class="section-id">Access Control</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Control data access with ease</h2>
+                        <h1 class="s-46 w-700">Control data access with ease</h1>
                         <!-- Text -->
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi id quo alias nihil quas cum error ut, repudiandae quis cupiditate?</p>
                         <!-- List -->

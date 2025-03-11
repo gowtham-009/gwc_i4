@@ -15,7 +15,7 @@
             </div>
 
             <!-- Text -->
-            <h2 class="s-56 w-700 color--dark">Page Not Found</h2>
+            <h1 class="s-56 w-700 color--dark">Page Not Found</h1>
             <h6 class="s-22 color--grey">
               Oops! The page you are looking for might have been moved, renamed
               or might never existed

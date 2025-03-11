@@ -28,9 +28,9 @@
                             <div class="statistic-block">
                                 <!-- Digit -->
                                 <div class="statistic-block-digit text-center">
-                                    <h2 class="s-46 statistic-number">
+                                    <h1 class="s-46 statistic-number">
                                         <span class="count-element d-flex"><ElementsCounterUp :start="0" :end="76" :duration="2000" /> %</span>
-                                    </h2>
+                                    </h1>
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-block-txt color--grey">
@@ -46,9 +46,9 @@
                             <div class="statistic-block">
                                 <!-- Digit -->
                                 <div class="statistic-block-digit text-center">
-                                    <h2 class="s-46 statistic-number">
+                                    <h1 class="s-46 statistic-number">
                                         <span class="count-element d-flex"><ElementsCounterUp :start="0" :end="47" :duration="2000" /> /50</span>
-                                    </h2>
+                                    </h1>
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-block-txt color--grey">
