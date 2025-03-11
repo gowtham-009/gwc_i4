@@ -39,6 +39,7 @@
 
     useHead({
       title: 'About us ',
+
   meta: [
     { name: 'description', content: 'This site is About us' },
     { name: 'keywords', content: 'Nuxt 3, Vuetify, Web Development' },
@@ -58,6 +59,7 @@
     { name: 'twitter:description', content: 'A short description for Twitter.' },
     { name: 'twitter:image', content: 'https://example.com/image.jpg' }
   ],
+ 
         bodyAttrs: {
             class: "navbar-light"
         },
