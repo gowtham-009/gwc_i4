@@ -28,7 +28,7 @@
                         <!-- IMAGE BLOCK -->
                         <div class="col-md-6 order-first order-md-2">
                             <div class="img-block right-column wow fadeInLeft">
-                                <img class="img-fluid" src="../assets/images/hero-2-img.jpg" alt="content-image" />
+                                   <img class="img-fluid" src="/assets/images/img-09.png" alt="content-image" />
                             </div>
                         </div>
                     </div>
